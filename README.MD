@@ -18,9 +18,9 @@ URL do curso -> [Linux I: Conhecendo e utilizando o terminal](https://www.alura.
 * Apertando *CTRL + L* na linha de console, limpamos o terminal.
 
 ## 01 - Trabalhando com Arquivos e Diretórios
-* **pwd**: para descobrir o diretório atual.
-* **ls**: para listar arquivos e diretórios, vimos as opções **-l** e **-la**, que listam além dos arquivos e diretórios ocultos, informações extras sobre cada um deles.
-* **echo** para imprimir mensagens e o operador **>** para modificar o destino da mensagem.
-* **clear** para limparmos o terminal.
-* **man** para consultar o manual sobre determinado comando.
-* **setas** para cima e para baixo para navegador no histórico de comandos do terminal.
+* **`pwd`**: para descobrir o diretório atual.
+* **`ls`**: para listar arquivos e diretórios, vimos as opções **`-l`** e **`-la`**, que listam além dos arquivos e diretórios ocultos, informações extras sobre cada um deles.
+* **`echo`** para imprimir mensagens e o operador **`>`** para modificar o destino da mensagem.
+* **`clear`** para limparmos o terminal.
+* **`man`** para consultar o manual sobre determinado comando.
+* **`setas`** para cima e para baixo para navegador no histórico de comandos do terminal.
