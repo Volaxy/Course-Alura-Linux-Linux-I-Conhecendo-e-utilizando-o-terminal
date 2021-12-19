@@ -43,3 +43,7 @@ URL do curso -> [Linux I: Conhecendo e utilizando o terminal](https://www.alura.
 * **`head`**: Lê as primeiras linhas de um arquivo.
 * **`tail`**: Lê as últimas linhas de um arquivo.
 * **`less`**: Lê um determinado número de linhas de um arquivo.
+
+## 05 - Edição de Arquivos com VI
+* Editando um arquivo no terminal pelo **VI**.
+* Navegar pelo arquivo no próprio temrinal.
