@@ -24,3 +24,22 @@ URL do curso -> [Linux I: Conhecendo e utilizando o terminal](https://www.alura.
 * **`clear`** para limparmos o terminal.
 * **`man`** para consultar o manual sobre determinado comando.
 * **`setas`** para cima e para baixo para navegador no histórico de comandos do terminal.
+
+## 02 - Mais Sobre Redirecionamento e Caracteres Coringa no Bash
+* **`rmdir`** para remover um diretorio.
+* **`rm`** para remover um arquivo.
+* Caso um comando tenha o caractere **`?`** significa que o `?` pode conter qualquer caractere.
+* Já o **`*`** significa que pode conter 1 ou mais carateres onde o `*` está inserido.
+
+## 03 - Manipulando, Compactando e Descompactando Arquivos
+* **`cp`**: Copia um arquivo para o destino especificado.
+* **`mv`**: Move um arquivo para um novo lugar informando o nome, pode ser usado para renomear arquivos no mesmo diretório.
+* **`zip`**: Compacta um diretório.
+* **`unzip`**: Descompacta um arquivo zip.
+
+## 04 - Mais sobre Compactação e Descompactação e Comandos no Terminal
+* **`tar -cz`**: Para compactar um arquivo.
+* **`touch`**: Altera a data de modificação de um arquivo.
+* **`head`**: Lê as primeiras linhas de um arquivo.
+* **`tail`**: Lê as últimas linhas de um arquivo.
+* **`less`**: Lê um determinado número de linhas de um arquivo.
